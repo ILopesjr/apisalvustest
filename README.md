@@ -20,6 +20,8 @@
 9.	Usar o comando no terminal -> php artisan migrate
 10. Usar o postman para testar a Api
 
+Observação: Nas rotas do post e put colocar no header accept e json.
+
 # OBJETIVOS #
 
 Criar uma Api(CRUD)
