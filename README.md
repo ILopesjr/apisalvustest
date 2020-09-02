@@ -18,8 +18,7 @@
 7.	Usar o comando no terminal -> php artisan cache:clear
 8.	Usar o comando no terminal -> php artisan config:clear
 9.	Usar o comando no terminal -> php artisan migrate
-10. Usar o comando no terminal -> php artisan key:generate
-11. Usar o postman para testar a Api
+10. Usar o postman para testar a Api
 
 # OBJETIVOS #
 
